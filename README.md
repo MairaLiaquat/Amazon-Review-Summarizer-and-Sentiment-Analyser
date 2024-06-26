@@ -1,5 +1,5 @@
 # Amazon-Review-Summarizer-and-Sentiment-Analyser
-Data Preparation Instructions
+**Data Preparation Instructions**
 
 To prepare the dataset, follow these steps:
 
