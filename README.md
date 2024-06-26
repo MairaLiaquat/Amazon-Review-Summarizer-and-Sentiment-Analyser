@@ -1,6 +1,6 @@
 # Project Overview
 
-This project involves preparing, analyzing, and fine-tuning datasets for product reviews. (The finetuned model can be downloded from this [link](https://drive.google.com/drive/folders/1SQZ1QVrkETCadQtaSjWafvBbBTXoQI6j?usp=sharing)) 
+This project involves preparing, analyzing, and fine-tuning dataset `McAuley-Lab/Amazon-Reviews-2023` for product reviews. (The finetuned model can be downloded from this [link](https://drive.google.com/drive/folders/1SQZ1QVrkETCadQtaSjWafvBbBTXoQI6j?usp=sharing)) 
 It includes data preparation, model fine-tuning, user interaction for review summarization, and sentiment analysis.  
 Below are the detailed steps and functionalities:
 
@@ -27,7 +27,7 @@ Use the `user_input.ipynb` notebook to:
 
 ## Sentiment Analysis Model Comparison
 
-The `Comapring_Roberta_and_Vader_models.ipynb` notebook is used to compare two models for sentiment analysis:
+The `Comapring_Roberta_and_Vader_models.ipynb` notebook is used to compare two models for sentiment analysis:<br>
 Here, the comparison is done for a subset of first 250 data samples from the `McAuley-Lab/Amazon-Reviews-2023`.
 
 - **RoBERTa Model:** RoBERTa (Robustly optimized BERT approach) is an advanced transformer-based model designed for natural language understanding. It builds upon the BERT (Bidirectional Encoder Representations from Transformers) architecture
