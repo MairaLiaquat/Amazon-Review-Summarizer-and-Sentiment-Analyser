@@ -15,10 +15,10 @@ The train.py file is used to fine-tune the BART-large-cnn model for generating s
 
 ## User Interaction
 Select Product and Get Summarized Reviews:
-Use the user_input.ipynb notebook to:
-Select a product from a provided list.
-Obtain a summarized review of the selected product.
-View the sentiment analysis of the selected product.
+    Use the user_input.ipynb notebook to:
+    Select a product from a provided list.
+    Obtain a summarized review of the selected product.
+    View the sentiment analysis of the selected product.
 
 ## Compare Sentiment Analysis Models:
     
