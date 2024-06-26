@@ -1,6 +1,6 @@
 # Project Overview
 
-This project involves preparing, analyzing, and fine-tuning datasets for product reviews.  
+This project involves preparing, analyzing, and fine-tuning datasets for product reviews. (The finetuned model can be downloded from this [link](https://drive.google.com/drive/folders/1SQZ1QVrkETCadQtaSjWafvBbBTXoQI6j?usp=sharing)) 
 It includes data preparation, model fine-tuning, user interaction for review summarization, and sentiment analysis.  
 Below are the detailed steps and functionalities:
 
