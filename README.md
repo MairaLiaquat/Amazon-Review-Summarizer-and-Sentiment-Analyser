@@ -1,11 +1,11 @@
-**Project Overview**
+##Project Overview##
 This project involves preparing, analyzing, and fine-tuning datasets for product reviews. It includes data preparation, model fine-tuning, user interaction for review summarization, and sentiment analysis. Below are the detailed steps and functionalities:
 **Data Preparation**
 
-    1.Download the Dataset:
+ 1.Download the Dataset:
         Run the data_save.py script to download the dataset.
 
-    2.Process the Data:
+ 2.Process the Data:
         Match the product names in the metadata using the ASIN code.
         Remove any unnecessary details to clean the data.
 
@@ -20,8 +20,8 @@ This project involves preparing, analyzing, and fine-tuning datasets for product
             Obtain a summarized review of the selected product.
             View the sentiment analysis of the selected product.
 
-**Sentiment Analysis Model Comparison**
-    **Compare Sentiment Analysis Models:**
+**Compare Sentiment Analysis Models:**
+    
         The Comparing_Roberta_and_Vader.ipynb notebook is used to compare two models for sentiment analysis:
             RoBERTa Model: A transformer-based model designed for natural language understanding.
             VADER Model: A rule-based model specifically attuned to sentiment analysis.
