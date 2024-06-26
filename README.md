@@ -22,7 +22,7 @@ Select Product and Get Summarized Reviews:
 
 ## Compare Sentiment Analysis Models:
     
-The Comparing_Roberta_and_Vader.ipynb notebook is used to compare two models for sentiment analysis:
+The Comparing_Roberta_and_Vader_models.ipynb notebook is used to compare two models for sentiment analysis:
 RoBERTa Model: A transformer-based model designed for natural language understanding.
 VADER Model: A rule-based model specifically attuned to sentiment analysis.
 
