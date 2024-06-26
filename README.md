@@ -27,7 +27,9 @@ Use the `user_input.ipynb` notebook to:
 
 ## Sentiment Analysis Model Comparison
 
-The `Comapring_Roberta_and_Vader_models.ipynb` notebook is used to compare two models for sentiment analysis:  
+The `Comapring_Roberta_and_Vader_models.ipynb` notebook is used to compare two models for sentiment analysis:
+Here, the comparison is done for a subset of first 250 data samples from the `McAuley-Lab/Amazon-Reviews-2023`.
+
 - **RoBERTa Model:** RoBERTa (Robustly optimized BERT approach) is an advanced transformer-based model designed for natural language understanding. It builds upon the BERT (Bidirectional Encoder Representations from Transformers) architecture
 - **VADER Model:** VADER (Valence Aware Dictionary and sEntiment Reasoner) is a rule-based model specifically attuned to sentiment analysis, particularly suited for social media texts. It is designed to be fast and computationally efficient, making it ideal for real-time applications
 
