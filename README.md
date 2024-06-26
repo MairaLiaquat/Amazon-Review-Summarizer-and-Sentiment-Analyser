@@ -3,10 +3,10 @@ Data Preparation Instructions
 
 To prepare the dataset, follow these steps:
 
-    Download the Dataset:
-        Run the data_save.py script to download the dataset.
+Download the Dataset:
+    Run the data_save.py script to download the dataset.
 
-    Process the Data:
+Process the Data:
         Match the product names in the metadata using the ASIN code.
         Remove any unnecessary details from the dataset.
 
